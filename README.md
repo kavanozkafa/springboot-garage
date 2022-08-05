@@ -1,20 +1,3 @@
-
-todo 
-
-postman koleksiyon - OK 
-bean validation - OK
-loglama - OK
-swagger- OK
-readme-OK
-exception handling- OK
-GitHub - OK
-thread safe-OK
-collection- OK
-unit test- 
-Design pattern
-
-
-
 # Garage API To Park Vehicles Without Human Intervention
 
 This project provides to park vehicles by size and gives ticket for customers and any given time they can leave with ticket.
